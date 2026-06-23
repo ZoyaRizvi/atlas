@@ -1,0 +1,7 @@
+PySide6
+openai
+langchain
+qdrant-client
+PyPDF2
+sentence-transformers
+python-dotenv
